@@ -1,0 +1,4 @@
+fn main() {
+    let c = abs(-5);
+    ret (c);
+}

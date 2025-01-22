@@ -1,0 +1,8 @@
+fn addCall(a) {
+    ret (a);
+}
+
+fn main() {
+    let c = addCall(4);
+    ret(c)
+}
